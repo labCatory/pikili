@@ -1,0 +1,1323 @@
+#doc=music_now.2.txt;;lemma;gramm;;;;;;;;;;;
+4;lt;LT;NONLEX;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m inan nom sg
+4;noindex;NOINDEX;NONLEX;;;;;;;;;PUNC;@;PUNC
+8;gt;GT;NONLEX;;;;;;;;;PUNC;&;PUNC
+2;@;@;PUNC;;;;;;;;;NONLEX;LT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;";";PUNC
+5;";";";";PUNC;;;;;;;;;NONLEX;NOINDEX;NONLEX
+7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m inan nom sg;;;;;;;;;NONLEX;GT;NONLEX
+9;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;[;[;PUNC;;;;;;;;;PUNC;[;PUNC
+2;нрзб;Ќ–«Ѕ;NONLEX;;;б;з;р;н;;;NONLEX;Ќ–«Ѕ;NONLEX
+3;];];PUNC;;;;;;;;;PUNC;];PUNC
+4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+5;lt;&;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+6;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;noindex;NOINDEX;NONLEX;;;;;;;;;NONLEX;NOINDEX;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+6;у;”;PR;;;у;;;;;;PR;”;PR
+7;мен€;я;SPRO sg 1p - acc;;;€;н;е;м;;;SPRO;я;SPRO sg 1p - acc
+8;получаетс€;ѕќЋ”„ј“№—я;V ipf praes sg indic - 3p;;;€;с;т;е;а;ч;V;ѕќЋ”„ј“№—я;V ipf praes sg indic - 3p
+9;не;Ќ≈;PART;;;е;н;;;;;PART;Ќ≈;PART
+10;очень;ќ„≈Ќ№;ADV -;;;ь;н;е;ч;о;;ADV;ќ„≈Ќ№;ADV -
+11;хорошо;’ќ–ќЎќ;ADV -;;;о;ш;о;р;о;х;ADV;’ќ–ќЎќ;ADV -
+12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+13;поэтому;ѕќЁ“ќћ”;ADV -;;;у;м;о;т;э;о;ADV;ѕќЁ“ќћ”;ADV -
+14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+15;соответственно;—ќќ“¬≈“—“¬≈ЌЌќ;ADV -;;;о;н;н;е;в;т;ADV;—ќќ“¬≈“—“¬≈ЌЌќ;ADV -
+16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+17;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+18;с;—;PR;;;с;;;;;;PR;—;PR
+19;темой;“≈ћј;S f inan ins sg;;;й;о;м;е;т;;S;“≈ћј;S f inan ins sg
+20;у;”;PR;;;у;;;;;;PR;”;PR
+21;мен€;я;SPRO sg 1p - acc;;;€;н;е;м;;;SPRO;я;SPRO sg 1p - acc
+22;будет;Ѕџ“№;V ipf praes sg indic - 3p;;;т;е;д;у;б;;V;Ѕџ“№;V ipf praes sg indic - 3p
+23;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+24;наверно;Ќј¬≈–Ќќ;ADV -;;;о;н;р;е;в;а;ADV;Ќј¬≈–Ќќ;ADV -
+25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26;очень;ќ„≈Ќ№;ADV -;;;ь;н;е;ч;о;;ADV;ќ„≈Ќ№;ADV -
+27;немножко;Ќ≈ћЌќ∆ ќ;ADV -;;;о;к;ж;о;н;м;ADV;Ќ≈ћЌќ∆ ќ;ADV -
+28;глупое;√Ћ”ѕџ…;A - acc sg plen n -;;;е;о;п;у;л;г;A;√Ћ”ѕџ…;A - nom sg plen n -
+29;видео;¬»ƒ≈ќ;S n inan acc pl;;;о;е;д;и;в;;S;¬»ƒ≈ќ;S n inan nonflex nonflex
+30;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31;но;Ќќ;CONJ;;;о;н;;;;;CONJ;Ќќ;CONJ
+32;всЄ;¬—≈;ADV -;;;Є;с;в;;;;ADV;¬—≈;ADV -
+33;же;∆≈;PART;;;е;ж;;;;;PART;∆≈;PART
+34;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m anim nom sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;ќ;ќ;PR;;;о;;;;;;PR;ќ;PR
+4;чем;„≈ћ;CONJ;;;м;е;ч;;;;CONJ;„≈ћ;CONJ
+5;€;я;SPRO sg 1p - nom;;;€;;;;;;SPRO;я;SPRO sg 1p - nom
+6;хотел;’ќ“≈“№;V ipf praet sg indic m -;;;л;е;т;о;х;;V;’ќ“≈“№;V ipf praet sg indic m -
+7;поговорить;ѕќ√ќ¬ќ–»“№;V pf - - inf - -;;;ь;т;и;р;о;в;V;ѕќ√ќ¬ќ–»“№;V pf - - inf - -
+8;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m anim nom sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;я;я;SPRO sg 1p - nom;;;€;;;;;;SPRO;я;SPRO sg 1p - nom
+4;бы;Ѕџ;PART;;;ы;б;;;;;PART;Ѕџ;PART
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;например;Ќјѕ–»ћ≈–;ADV -;;;р;е;м;и;р;п;ADV;Ќјѕ–»ћ≈–;ADV -
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;хотел;’ќ“≈“№;V ipf praet sg indic m -;;;л;е;т;о;х;;V;’ќ“≈“№;V ipf praet sg indic m -
+9;поговорить;ѕќ√ќ¬ќ–»“№;V pf - - inf - -;;;ь;т;и;р;о;в;V;ѕќ√ќ¬ќ–»“№;V pf - - inf - -
+10;о;ќ;PR;;;о;;;;;;PR;ќ;PR
+11;том;“ќ;S n - loc sg;;;м;о;т;;;;S;“ќ;S n - loc sg
+12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+13;что;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+15;эээ;ЁЁЁ;NONLEX;;;э;э;э;;;;NONLEX;ЁЁЁ;NONLEX
+16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+17;ну;Ќ”;PART;;;у;н;;;;;PART;Ќ”;PART
+18;о;ќ;PR;;;о;;;;;;PR;ќ;PR
+19;такой;“ј ќ…;A - loc sg plen f -;;;й;о;к;а;т;;A;“ј ќ…;A - gen sg plen f -
+20;интересной;»Ќ“≈–≈—Ќџ…;A - loc sg plen f -;;;й;о;н;с;е;р;A;»Ќ“≈–≈—Ќџ…;A - gen sg plen f -
+21;ситуации;—»“”ј÷»я;S f inan loc sg;;;и;и;ц;а;у;т;S;—»“”ј÷»я;S f inan gen sg
+22;в;¬;PR;;;в;;;;;;PR;¬;PR
+23;нашей;ЌјЎ;A - loc sg plen f -;;;й;е;ш;а;н;;A;ЌјЎ;A - loc sg plen f -
+24;стране;—“–јЌј;S f inan loc sg;;;е;н;а;р;т;с;S;—“–јЌј;S f inan loc sg
+25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26;что;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+27;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+28;ээн;ЁЁЌ;INTJ;;;н;э;э;;;;S;ЁЁЌ;S m inan acc sg
+29;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+30;как бы;как бы;-;;;ы;б; ;к;а;к;-;как бы;-
+31;это;Ё“ќ;S n inan acc sg;;;о;т;э;;;;S;Ё“ќ;S n inan acc sg
+32;сказать;— ј«ј“№;V pf - - inf - -;;;ь;т;а;з;а;к;V;— ј«ј“№;V pf - - inf - -
+33;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+34;одна;ќƒ»Ќ;A - nom sg plen f -;;;а;н;д;о;;;A;ќƒ»Ќ;A - nom sg plen f -
+35;музыкальна€;ћ”«џ јЋ№Ќџ…;A - nom sg plen f -;;;€;а;н;ь;л;а;A;ћ”«џ јЋ№Ќџ…;A - nom sg plen f -
+36;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+37;эээ;ЁЁЁ;NONLEX;;;э;э;э;;;;NONLEX;ЁЁЁ;NONLEX
+38;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+39;веха;¬≈’ј;S f inan nom sg;;;а;х;е;в;;;S;¬≈’ј;S f inan nom sg
+40;сменила;—ћ≈Ќ»“№;V pf praet sg indic f -;;;а;л;и;н;е;м;V;—ћ≈Ќ»“№;V pf praet sg indic f -
+41;другую;ƒ–”√ќ…;A - acc sg plen f -;;;ю;у;г;у;р;д;A;ƒ–”√ќ…;A - acc sg plen f -
+42;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+43;то;“ќ;CONJ;;;о;т;;;;;CONJ;“ќ;CONJ
+44;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+45;что;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+46;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+47;например;Ќјѕ–»ћ≈–;ADV -;;;р;е;м;и;р;п;ADV;Ќјѕ–»ћ≈–;ADV -
+48;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+49;если;≈—Ћ»;CONJ;;;и;л;с;е;;;CONJ;≈—Ћ»;CONJ
+50;раньше;–јЌќ;ADV comp;;;е;ш;ь;н;а;р;ADV;–јЌќ;ADV comp
+51;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+52;наверное;Ќј¬≈–Ќќ≈;ADV -;;;е;о;н;р;е;в;ADV;Ќј¬≈–Ќќ≈;ADV -
+53;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+54;самым;—јћџ…;A - ins sg plen n -;;;м;ы;м;а;с;;A;—јћџ…;A - ins sg plen n -
+55;попул€рным;ѕќѕ”Ћя–Ќџ…;A - ins sg plen m -;;;м;ы;н;р;€;л;A;ѕќѕ”Ћя–Ќџ…;A - ins sg plen m -
+56;жанром;∆јЌ–;S m inan ins sg;;;м;о;р;н;а;ж;S;∆јЌ–;S m inan ins sg
+57;в;¬;PR;;;в;;;;;;PR;¬;PR
+58;нашей;ЌјЎ;A - loc sg plen f -;;;й;е;ш;а;н;;A;ЌјЎ;A - loc sg plen f -
+59;стране;—“–јЌј;S f inan loc sg;;;е;н;а;р;т;с;S;—“–јЌј;S f inan loc sg
+60;была;Ѕџ“№;V ipf praet sg indic f -;;;а;л;ы;б;;;V;Ѕџ“№;V ipf praet sg indic f -
+61;рок-музыка;–ќ -ћ”«џ ј;S f inan nom sg;;;а;к;ы;з;у;м;S;–ќ -ћ”«џ ј;S f inan nom sg
+62;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+63;то;“ќ;CONJ;;;о;т;;;;;CONJ;“ќ;CONJ
+64;теперь;“≈ѕ≈–№;ADV -;;;ь;р;е;п;е;т;ADV;“≈ѕ≈–№;ADV -
+65;в;¬;PR;;;в;;;;;;PR;¬;PR
+66;нашей;ЌјЎ;A - loc sg plen f -;;;й;е;ш;а;н;;A;ЌјЎ;A - loc sg plen f -
+67;стране;—“–јЌј;S f inan loc sg;;;е;н;а;р;т;с;S;—“–јЌј;S f inan loc sg
+68;сама€;—јћџ…;A - nom sg plen f -;;;€;а;м;а;с;;A;—јћџ…;A - nom sg plen f -
+69;попул€рна€;ѕќѕ”Ћя–Ќџ…;A - nom sg plen f -;;;€;а;н;р;€;л;A;ѕќѕ”Ћя–Ќџ…;A - nom sg plen f -
+70;музыка;ћ”«џ ј;S f inan nom sg;;;а;к;ы;з;у;м;S;ћ”«џ ј;S f inan nom sg
+71;это;Ё“ќ;S n - acc sg;;;о;т;э;;;;S;Ё“ќ;S n - acc sg
+72;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+73;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+74;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+75;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+76;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+77;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+78;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+79;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+80;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+81;всЄ-таки;¬—≈-“ј »;PART;;;и;к;а;т;;Є;PART;¬—≈-“ј »;PART
+82;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+83;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+84;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;всЄтки;¬—≈“ ј;;distort;;и;к;т;Є;с;в;S;¬—≈“ ј;S f inan acc pl
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;хип-хоп;’»ѕ-’ќѕ;S m inan acc sg;;;п;о;х;;п;и;S;’»ѕ-’ќѕ;S m inan nom sg
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m anim nom sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;Ёх;Ё’;INTJ;;;х;э;;;;;INTJ;Ё’;INTJ
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;как; ј ;CONJ;;;к;а;к;;;;CONJ; ј ;CONJ
+6;это;Ё“ќ;S n - nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+9;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+10;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+11;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+12;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+13;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+15;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+16;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+17;собственно;—ќЅ—“¬≈ЌЌќ;ADV -;;;о;н;н;е;в;т;ADV;—ќЅ—“¬≈ЌЌќ;ADV -
+18;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+19;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+20;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;собсно;—ќЅ—Ќќ;;distort;;о;н;с;б;о;с;S;—ќЅ—Ќќ;S n inan nonflex nonflex
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+2;идентифицировалось;»ƒ≈Ќ“»‘»÷»–ќ¬ј“№—я;V pf praet sg indic n -;;;ь;с;о;л;а;в;V;»ƒ≈Ќ“»‘»÷»–ќ¬ј“№—я;V pf praet sg indic n -
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;так;“ј ;ADV -;;;к;а;т;;;;ADV;“ј ;ADV -
+5;сказать;— ј«ј“№;V pf - - inf - -;;;ь;т;а;з;а;к;V;— ј«ј“№;V pf - - inf - -
+6;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m inan gen sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m inan gen sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;Ёа;Ёј;NONLEX;;;а;э;;;;;NONLEX;Ёј;NONLEX
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;очень;ќ„≈Ќ№;ADV -;;;ь;н;е;ч;о;;ADV;ќ„≈Ќ№;ADV -
+6;просто;ѕ–ќ—“ќ;ADV -;;;о;т;с;о;р;п;ADV;ѕ–ќ—“ќ;ADV -
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;потому что;потому что;ZERO;;;о;т;ч; ;у;м;ZERO;потому что;ZERO
+9;больша€;ЅќЋ№Ўќ…;A - nom sg plen f -;;;€;а;ш;ь;л;о;A;ЅќЋ№Ўќ…;A - nom sg plen f -
+10;часть;„ј—“№;S f inan nom sg;;;ь;т;с;а;ч;;S;„ј—“№;S f inan nom sg
+11;именно;»ћ≈ЌЌќ;PART;;;о;н;н;е;м;и;PART;»ћ≈ЌЌќ;PART
+12;интернет;»Ќ“≈–Ќ≈“;NONLEX;слитно;;т;е;н;р;е;т;S;»Ќ“≈–Ќ≈“;S m inan nom sg
+13;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+15;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+16;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+17;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+18;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+19;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+20;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+21;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+22;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;—ћ»;—ћ»;S - inan gen pl;;;и;м;с;;;;S;—ћ»;S - inan nom pl
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;сми;—ћ»;S - inan gen pl;;;и;м;с;;;;S;—ћ»;S - inan loc pl
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;сейчас;—≈…„ј—;ADV -;;;с;а;ч;й;е;с;ADV;—≈…„ј—;ADV -
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;эээ;ЁЁЁ;NONLEX;;;э;э;э;;;;NONLEX;ЁЁЁ;NONLEX
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;пестр€т;ѕ≈—“–≈“№;V ipf praes pl indic - 3p;;;т;€;р;т;с;е;V;ѕ≈—“–≈“№;V ipf praes pl indic - 3p
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;эээ;ЁЁЁ;NONLEX;;;э;э;э;;;;NONLEX;ЁЁЁ;NONLEX
+8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+9;разными...;–ј«Ќџ…...;A - ins pl plen - -;;;;;;и;м;ы;A;–ј«Ќџ…...;A - ins pl plen - -
+10;разной;–ј«Ќџ…;A - ins sg plen f -;;;й;о;н;з;а;р;A;–ј«Ќџ…;A - gen sg plen f -
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+12;эээ;ЁЁЁ;NONLEX;;;э;э;э;;;;NONLEX;ЁЁЁ;NONLEX
+13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+14;информацией;»Ќ‘ќ–ћј÷»я;S f inan ins sg;;;й;е;и;ц;а;м;S;»Ќ‘ќ–ћј÷»я;S f inan ins sg
+15;о;ќ;INTJ;;;о;;;;;;INTJ;ќ;INTJ
+16;хип-хоп;’»ѕ-’ќѕ;NONLEX;слитно;;п;о;х;;п;и;S;’»ѕ-’ќѕ;S m inan acc sg
+17;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+18;исполнител€х;»—ѕќЋЌ»“≈Ћ№;S m anim loc pl;;;х;€;л;е;т;и;S;»—ѕќЋЌ»“≈Ћ№;S m anim loc pl
+19;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m inan nom sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m inan nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;я;я;SPRO sg 1p - nom;;;€;;;;;;SPRO;я;SPRO sg 1p - nom
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;то есть;то есть;-;;;ь;т;с;е; ;о;-;то есть;-
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;не;Ќ≈;PART;;;е;н;;;;;PART;Ќ≈;PART
+8;беру;Ѕ–ј“№;V ipf praes sg indic - 1p;;;у;р;е;б;;;V;Ѕ–ј“№;V ipf praes sg indic - 1p
+9;в;¬;PR;;;в;;;;;;PR;¬;PR
+10;расчет;–ј—„≈“;S m inan acc sg;;;т;е;ч;с;а;р;S;–ј—„≈“;S m inan acc sg
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+12;грубо;√–”Ѕќ;ADV -;;;о;б;у;р;г;;ADV;√–”Ѕќ;ADV -
+13;говор€;√ќ¬ќ–»“№;V ipf praes - ger - -;;;€;р;о;в;о;г;V;√ќ¬ќ–»“№;V ipf praes - ger - -
+14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+15;телевиденье;“≈Ћ≈¬»ƒ≈Ќ№≈;S m inan acc sg;;;е;ь;н;е;д;и;S;“≈Ћ≈¬»ƒ≈Ќ№≈;S m inan gen sg
+16;там;“јћ;ADV -;;;м;а;т;;;;ADV;“јћ;ADV -
+17;или;»Ћ»;CONJ;;;и;л;и;;;;CONJ;»Ћ»;CONJ
+18;еще;≈ў≈;ADV -;;;е;щ;е;;;;ADV;≈ў≈;ADV -
+19;какие; ј ќ…;A - acc pl plen - inan;;;е;и;к;а;к;;A; ј ќ…;A - acc pl plen - inan
+20;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+21;источники;»—“ќ„Ќ» ;S m inan acc pl;;;и;к;и;н;ч;о;S;»—“ќ„Ќ» ;S m inan nom pl
+22;там;“јћ;PART;;;м;а;т;;;;PART;“јћ;PART
+23;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+24;радио;–јƒ»ќ;S n inan acc sg;;;о;и;д;а;р;;S;–јƒ»ќ;S n inan nonflex nonflex
+25;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;вы;¬џ;SPRO pl 2p - nom;;;ы;в;;;;;SPRO;¬џ;SPRO pl 2p - nom
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;€;я;SPRO sg 1p - nom;;;€;;;;;;SPRO;я;SPRO sg 1p - nom
+4;думаю;ƒ”ћј“№;V ipf praes sg indic - 1p;;;ю;а;м;у;д;;V;ƒ”ћј“№;V ipf praes sg indic - 1p
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+7;так;“ј ;ADV -;;;к;а;т;;;;ADV;“ј ;ADV -
+8;прекрасно;ѕ–≈ –ј—Ќќ;ADV -;;;о;н;с;а;р;к;ADV;ѕ–≈ –ј—Ќќ;ADV -
+9;понимаете;ѕќЌ»ћј“№;V ipf praes pl indic - 2p;;;е;т;е;а;м;и;V;ѕќЌ»ћј“№;V ipf praes pl indic - 2p
+10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+11;что;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+12;эт...;Ё“ј...;S f inan gen pl;;;;;;т;э;;S;Ё“ј...;S f inan gen pl
+13;эти;Ё“ќ“;A - nom pl plen - -;;;и;т;э;;;;A;Ё“ќ“;A - nom pl plen - -
+14;источники;»—“ќ„Ќ» ;S m inan nom pl;;;и;к;и;н;ч;о;S;»—“ќ„Ќ» ;S m inan nom pl
+15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+16;они;ќЌ»;SPRO pl - - nom;;;и;н;о;;;;SPRO;ќЌ»;SPRO pl - - nom
+17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+18;ннн;ЌЌЌ;NONLEX;;;н;н;н;;;;NONLEX;ЌЌЌ;NONLEX
+19;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+20;дл€;ƒЋя;PR;;;€;л;д;;;;PR;ƒЋя;PR
+21;молодЄжи;ћќЋќƒ≈∆№;S f inan gen sg;;;и;ж;Є;д;о;л;S;ћќЋќƒ≈∆№;S f inan gen sg
+22;не;Ќ≈;PART;;;е;н;;;;;PART;Ќ≈;PART
+23;очень;ќ„≈Ќ№;ADV -;;;ь;н;е;ч;о;;ADV;ќ„≈Ќ№;ADV -
+24;попул€рны;ѕќѕ”Ћя–Ќџ…;A - - pl brev - -;;;ы;н;р;€;л;у;A;ѕќѕ”Ћя–Ќџ…;A - - pl brev - -
+25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+27;поэтому;ѕќЁ“ќћ”;ADV -;;;у;м;о;т;э;о;ADV;ѕќЁ“ќћ”;ADV -
+28;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+29;соотвественно;—ќќ“¬≈—“¬≈ЌЌќ;ADV -;;;о;н;н;е;в;т;ADV;—ќќ“¬≈—“¬≈ЌЌќ;ADV -
+30;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31;сказать;— ј«ј“№;V pf - - inf - -;;;ь;т;а;з;а;к;V;— ј«ј“№;V pf - - inf - -
+32;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+33;что;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+34;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+35;ну;Ќ”;PART;;;у;н;;;;;PART;Ќ”;PART
+36;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+37;жанр;∆јЌ–;S m inan nom sg;;;р;н;а;ж;;;S;∆јЌ–;S m inan nom sg
+38;как-то; ј -“ќ;ADV -;;;о;т;;к;а;к;ADV; ј -“ќ;ADV -
+39;продвинулс€;ѕ–ќƒ¬»Ќ”“№—я;V pf praet sg indic m -;;;€;с;л;у;н;и;V;ѕ–ќƒ¬»Ќ”“№—я;V pf praet sg indic m -
+40;за счет;за счет;ZERO;;;т;е;ч;с; ;а;ZERO;за счет;ZERO
+41;них;ќЌ»;SPRO pl - - gen;;;х;и;н;;;;SPRO;ќЌ»;SPRO pl - - loc
+42;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+43;ну;Ќ”;PART;;;у;н;;;;;PART;Ќ”;PART
+44;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+45;это;Ё“ќ;S n - nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+46;глупо;√Ћ”ѕџ…;A - - sg brev n -;;;о;п;у;л;г;;A;√Ћ”ѕџ…;A - - sg brev n -
+47;будет;Ѕџ“№;V ipf praes sg indic - 3p;;;т;е;д;у;б;;V;Ѕџ“№;V ipf praes sg indic - 3p
+48;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¬от;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m anim nom sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;“ут;“”“;ADV -;;;т;у;т;;;;ADV;“”“;ADV -
+4;сразу;—–ј«”;ADV -;;;у;з;а;р;с;;ADV;—–ј«”;ADV -
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;как бы;как бы;-;;;ы;б; ;к;а;к;-;как бы;-
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;эм;Ёћ;S n inan nonflex nonflex;;;м;э;;;;;S;Ёћ;S n inan nonflex nonflex
+9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+10;две;ƒ¬ј;NUM nom f -;;;е;в;д;;;;NUM;ƒ¬ј;NUM nom f -
+11;мысли;ћџ—Ћ№;S f inan nom pl;;;и;л;с;ы;м;;S;ћџ—Ћ№;S f inan gen sg
+12;в;¬;PR;;;в;;;;;;PR;¬;PR
+13;голове;√ќЋќ¬ј;S f inan loc sg;;;е;в;о;л;о;г;S;√ќЋќ¬ј;S f inan loc sg
+14;по€вл€ютс€;ѕќя¬Ћя“№—я;V ipf praes pl indic - 3p;;;€;с;т;ю;€;л;V;ѕќя¬Ћя“№—я;V ipf praes pl indic - 3p
+15;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+16;о;ќ;PR;;;о;;;;;;PR;ќ;PR
+17;том;“ќ;S n - loc sg;;;м;о;т;;;;S;“ќ;S n - loc sg
+18;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+19;что;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+20;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+21;во-первых;¬ќ-ѕ≈–¬џ’;ADV -;;;х;ы;в;р;е;п;ADV;¬ќ-ѕ≈–¬џ’;ADV -
+22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+23;эээ;ЁЁЁ;NONLEX;;;э;э;э;;;;NONLEX;ЁЁЁ;NONLEX
+24;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25;вот;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+26;это;Ё“ќ;S n - nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+27;вот;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+28;вечное;¬≈„Ќџ…;A - nom sg plen n -;;;е;о;н;ч;е;в;A;¬≈„Ќџ…;A - nom sg plen n -
+29;школьное;Ў ќЋ№Ќџ…;A - nom sg plen n -;;;е;о;н;ь;л;о;A;Ў ќЋ№Ќџ…;A - nom sg plen n -
+30;противосто€ние;ѕ–ќ“»¬ќ—“ќяЌ»≈;S n inan nom sg;;;е;и;н;€;о;т;S;ѕ–ќ“»¬ќ—“ќяЌ»≈;S n inan nom sg
+31;рэпа;–Ёѕ;S m inan gen sg;;;а;п;э;р;;;S;–Ёѕ;S m inan nom sg
+32;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+33;рока;–ќ ;S m inan gen sg;;;а;к;о;р;;;S;–ќ ;S m inan gen sg
+34;решилось;–≈Ў»“№—я;V pf praet sg indic n -;;;ь;с;о;л;и;ш;V;–≈Ў»“№—я;V pf praet sg indic n -
+35;однозначно;ќƒЌќ«Ќј„Ќќ;ADV -;;;о;н;ч;а;н;з;ADV;ќƒЌќ«Ќј„Ќќ;ADV -
+36;в;¬;PR;;;в;;;;;;PR;¬;PR
+37;пользу;ѕќЋ№«ј;S f inan acc sg;;;у;з;ь;л;о;п;S;ѕќЋ№«ј;S f inan acc sg
+38;рэпа;–Ёѕ;S m inan gen sg;;;а;п;э;р;;;S;–Ёѕ;S m inan gen sg
+39;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+40;это;Ё“ќ;S n - nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+41;во-первых;¬ќ-ѕ≈–¬џ’;ADV -;;;х;ы;в;р;е;п;ADV;¬ќ-ѕ≈–¬џ’;ADV -
+42;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+43;а;ј;CONJ;;;а;;;;;;CONJ;ј;CONJ
+44;второе;¬“ќ–ќ≈;S n inan acc sg;;;е;о;р;о;т;в;S;¬“ќ–ќ≈;S n inan acc sg
+45;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+46;это;Ё“ќ;S n - nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+47;то;“ќ;CONJ;;;о;т;;;;;CONJ;“ќ;CONJ
+48;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+49;что;„“ќ;S n inan acc sg;;;о;т;ч;;;;S;„“ќ;S n inan acc sg
+50;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+51;ааа;јјј;NONLEX;;;а;а;а;;;;S;јјј;S m inan nonflex nonflex
+52;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+53;интернет;»Ќ“≈–Ќ≈“;NONLEX;слитно;;т;е;н;р;е;т;S;»Ќ“≈–Ќ≈“;S m inan nom sg
+54;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+55;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+56;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+57;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+58;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+59;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+60;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+61;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+62;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+63;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;—ћ»;—ћ»;S - inan nom pl;;;и;м;с;;;;S;—ћ»;S - inan nom pl
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;сми;—ћ»;S - inan nom pl;;;и;м;с;;;;S;—ћ»;S - inan loc pl
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;постепенно;ѕќ—“≈ѕ≈ЌЌќ;ADV -;;;о;н;н;е;п;е;ADV;ѕќ—“≈ѕ≈ЌЌќ;ADV -
+2;начали;Ќј„ј“№;V pf praet pl indic - -;;;и;л;а;ч;а;н;V;Ќј„ј“№;V pf praet pl indic - -
+3;выходить;¬џ’ќƒ»“№;V ipf - - inf - -;;;ь;т;и;д;о;х;V;¬џ’ќƒ»“№;V ipf - - inf - -
+4;на;Ќј;PR;;;а;н;;;;;PR;Ќј;PR
+5;уровень;”–ќ¬≈Ќ№;S m inan acc sg;;;ь;н;е;в;о;р;S;”–ќ¬≈Ќ№;S m inan acc sg
+6;официальных;ќ‘»÷»јЋ№Ќџ…;A - gen pl plen - -;;;х;ы;н;ь;л;а;A;ќ‘»÷»јЋ№Ќџ…;A - gen pl plen - -
+7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+8;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+10;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+11;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+12;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+13;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+14;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+15;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;—ћ»;—ћ»;S - inan gen pl;;;и;м;с;;;;S;—ћ»;S - inan nom pl
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;сми;—ћ»;S - inan gen pl;;;и;м;с;;;;S;—ћ»;S - inan loc pl
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+2;то есть;то есть;-;;;ь;т;с;е; ;о;-;то есть;-
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;аудитори€;ј”ƒ»“ќ–»я;S f inan nom sg;;;€;и;р;о;т;и;S;ј”ƒ»“ќ–»я;S f inan nom sg
+5;у;”;PR;;;у;;;;;;PR;”;PR
+6;них;ќЌ»;SPRO pl - - gen;;;х;и;н;;;;SPRO;ќЌ»;SPRO pl - - loc
+7;более;ЅќЋ≈≈;ADV -;;;е;е;л;о;б;;ADV;ЅќЋ≈≈;ADV -
+8;активна€;ј “»¬Ќџ…;A - nom sg plen f -;;;€;а;н;в;и;т;A;ј “»¬Ќџ…;A - nom sg plen f -
+9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+10;более;ЅќЋ≈≈;ADV -;;;е;е;л;о;б;;ADV;ЅќЋ≈≈;ADV -
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+12;эээ;ЁЁЁ;NONLEX;;;э;э;э;;;;NONLEX;ЁЁЁ;NONLEX
+13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+14;как бы;как бы;-;;;ы;б; ;к;а;к;-;как бы;-
+15;сказать;— ј«ј“№;V pf - - inf - -;;;ь;т;а;з;а;к;V;— ј«ј“№;V pf - - inf - -
+16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+17;более;ЅќЋ≈≈;ADV -;;;е;е;л;о;б;;ADV;ЅќЋ≈≈;ADV -
+18;способна€;—ѕќ—ќЅЌџ…;A - nom sg plen f -;;;€;а;н;б;о;с;A;—ѕќ—ќЅЌџ…;A - nom sg plen f -
+19;к...; ...;PR;;;;;;к;;;PR; ...;PR
+20;к; ;PR;;;к;;;;;;PR; ;PR
+21;распространению;–ј—ѕ–ќ—“–јЌ≈Ќ»≈;S n inan dat sg;;;ю;и;н;е;н;а;S;–ј—ѕ–ќ—“–јЌ≈Ќ»≈;S n inan dat sg
+22;информации;»Ќ‘ќ–ћј÷»я;S f inan gen sg;;;и;и;ц;а;м;р;S;»Ќ‘ќ–ћј÷»я;S f inan gen sg
+23;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+24;то есть;то есть;-;;;ь;т;с;е; ;о;-;то есть;-
+25;дел€тс€;ƒ≈Ћ»“№—я;V ipf praes pl indic - 3p;;;€;с;т;€;л;е;V;ƒ≈Ћ»“№—я;V ipf praes pl indic - 3p
+26;со;—ќ;PR;;;о;с;;;;;PR;—ќ;PR
+27;своими;—¬ќ…;A - ins pl plen - -;;;и;м;и;о;в;с;A;—¬ќ…;A - ins pl plen - -
+28;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+29;вот;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+30;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31;в отличие от;в отличие от;ZERO;;;т;о; ;е;и;ч;ZERO;в отличие от;ZERO
+32;каналов; јЌјЋ;S m inan gen pl;;;в;о;л;а;н;а;S; јЌјЋ;S m inan gen pl
+33;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+34;радио;–јƒ»ќ;S n inan gen sg;;;о;и;д;а;р;;S;–јƒ»ќ;S n inan nonflex nonflex
+35;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m anim nom sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;¬от;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;хм;’ћ;INTJ;;;м;х;;;;;INTJ;’ћ;INTJ
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;собственно;—ќЅ—“¬≈ЌЌќ;ADV -;;;о;н;н;е;в;т;ADV;—ќЅ—“¬≈ЌЌќ;ADV -
+8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+9;что;„“ќ;S n inan acc sg;;;о;т;ч;;;;S;„“ќ;S n inan acc sg
+10;ещЄ;≈ў≈;ADV -;;;Є;щ;е;;;;ADV;≈ў≈;ADV -
+11;можно;ћќ∆Ќќ;ADV -;;;о;н;ж;о;м;;ADV;ћќ∆Ќќ;ADV -
+12;сказать;— ј«ј“№;V pf - - inf - -;;;ь;т;а;з;а;к;V;— ј«ј“№;V pf - - inf - -
+13;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;ѕро;ѕ–ќ;PR;;;о;р;п;;;;PR;ѕ–ќ;PR
+2;образ;ќЅ–ј«;S m inan acc sg;;;з;а;р;б;о;;S;ќЅ–ј«;S m inan acc sg
+3;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ѕро;ѕ–ќ;PR;;;о;р;п;;;;PR;ѕ–ќ;PR
+2;образ;ќЅ–ј«;S m inan acc sg;;;з;а;р;б;о;;S;ќЅ–ј«;S m inan acc sg
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;например;Ќјѕ–»ћ≈–;ADV -;;;р;е;м;и;р;п;ADV;Ќјѕ–»ћ≈–;ADV -
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;хип-хоп;’»ѕ-’ќѕ;NONLEX;слитно;;п;о;х;;п;и;S;’»ѕ-’ќѕ;S m inan nom sg
+7;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+8;исполнителей;»—ѕќЋЌ»“≈Ћ№;S m anim gen pl;;;й;е;л;е;т;и;S;»—ѕќЋЌ»“≈Ћ№;S m anim gen pl
+9;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;Ќу;Ќ”;PART;;;у;н;;;;;PART;Ќ”;PART
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;€;я;SPRO sg 1p - nom;;;€;;;;;;SPRO;я;SPRO sg 1p - nom
+4;не;Ќ≈;PART;;;е;н;;;;;PART;Ќ≈;PART
+5;знаю;«Ќј“№;V ipf praes sg indic - 1p;;;ю;а;н;з;;;V;«Ќј“№;V ipf praes sg indic - 1p
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;не;Ќ≈;PART;;;е;н;;;;;PART;Ќ≈;PART
+8;берусь;Ѕ–ј“№—я;V ipf praes sg indic - 1p;;;ь;с;у;р;е;б;V;Ѕ–ј“№—я;V ipf praes sg indic - 1p
+9;за;«ј;PR;;;а;з;;;;;PR;«ј;PR
+10;всех;¬—≈;S - - gen pl;;;х;е;с;в;;;S;¬—≈;S - - gen pl
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+12;€;я;SPRO sg 1p - nom;;;€;;;;;;SPRO;я;SPRO sg 1p - nom
+13;расскажу;–ј—— ј«ј“№;V pf fut sg indic - 1p;;;у;ж;а;к;с;с;V;–ј—— ј«ј“№;V pf fut sg indic - 1p
+14;про;ѕ–ќ;PR;;;о;р;п;;;;PR;ѕ–ќ;PR
+15;парочку;ѕј–ќ„ ј;S f inan acc sg;;;у;к;ч;о;р;а;S;ѕј–ќ„ ј;S f inan acc sg
+16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+17;буквально;Ѕ” ¬јЋ№Ќќ;ADV -;;;о;н;ь;л;а;в;ADV;Ѕ” ¬јЋ№Ќќ;ADV -
+18;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+19;в;¬;PR;;;в;;;;;;PR;¬;PR
+20;двух;ƒ¬ј;NUM loc - -;;;х;у;в;д;;;NUM;ƒ¬ј;NUM loc - -
+21;словах;—Ћќ¬ќ;S n inan loc pl;;;х;а;в;о;л;с;S;—Ћќ¬ќ;S n inan loc pl
+22;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m anim nom sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;ја;јј;NONLEX;;;а;а;;;;;NONLEX;јј;NONLEX
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;начнем;Ќј„ј“№;V pf - pl imper - 1p;;;м;е;н;ч;а;н;V;Ќј„ј“№;V pf - pl imper - 1p
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;аа;јј;NONLEX;;;а;а;;;;;NONLEX;јј;NONLEX
+8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+9;с;—;S - - nonflex nonflex;;;с;;;;;;S;—;S - - nonflex nonflex
+10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+12;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+13;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+14;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+15;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+16;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+17;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+18;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+19;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+20;собственно;—ќЅ—“¬≈ЌЌќ;ADV -;;;о;н;н;е;в;т;ADV;—ќЅ—“¬≈ЌЌќ;ADV -
+21;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+22;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+23;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;собсно;—ќЅ—Ќќ;S n inan nonflex nonflex;distort;;о;н;с;б;о;с;S;—ќЅ—Ќќ;S n inan nonflex nonflex
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+2;немного;Ќ≈ћЌќ√ќ;ADV -;;;о;г;о;н;м;е;ADV;Ќ≈ћЌќ√ќ;ADV -
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;наверное;Ќј¬≈–Ќќ≈;ADV -;;;е;о;н;р;е;в;ADV;Ќј¬≈–Ќќ≈;ADV -
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;эпатажного;Ёѕј“ј∆Ќџ…;A - gen sg plen n -;;;о;г;о;н;ж;а;A;Ёѕј“ј∆Ќџ…;A - gen sg plen n -
+7;персонажа;ѕ≈–—ќЌј∆;S m anim gen sg;;;а;ж;а;н;о;с;S;ѕ≈–—ќЌј∆;S m anim gen sg
+8;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+9;это;Ё“ќ;S n - acc sg;;;о;т;э;;;;S;Ё“ќ;S n - acc sg
+10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+11;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+12;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+13;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+14;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+15;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+16;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+17;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+18;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;Pharaoh;PHARAOH;NONLEX;;;;;;;;;NONLEX;PHARAOH;NONLEX
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;‘араон;‘ј–јќЌ;S m persn nom sg;;;н;о;а;р;а;ф;S;‘ј–јќЌ;S m anim nom sg
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;.;.;SENT;;;;;;;;;SENT;.;SENT
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+9;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;Pharaoh;PHARAOH;NONLEX;;;;;;;;;NONLEX;PHARAOH;NONLEX
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;‘араон;‘ј–јќЌ;S m persn nom sg;;;н;о;а;р;а;ф;S;‘ј–јќЌ;S m anim nom sg
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+2;по;ѕќ;PR;;;о;п;;;;;PR;ѕќ;PR
+3;факту;‘ј “;S m inan dat sg;;;у;т;к;а;ф;;S;‘ј “;S m inan dat sg
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;€вл€етс€;я¬Ћя“№—я;V ipf praes sg indic - 3p;;;€;с;т;е;€;л;V;я¬Ћя“№—я;V ipf praes sg indic - 3p
+6;как раз;как раз;-;;;з;а;р; ;к;а;-;как раз;-
+7;реинкарнацией;–≈»Ќ ј–Ќј÷»я;S f inan ins sg;;;й;е;и;ц;а;н;S;–≈»Ќ ј–Ќј÷»я;S f inan ins sg
+8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+9;м;ћ;NONLEX;;;м;;;;;;S;ћ;S - - nonflex nonflex
+10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+11;рок-звЄзд;–ќ -«¬≈«ƒј;S f anim acc pl;;;д;з;Є;в;з;;S;–ќ -«¬≈«ƒј;S f anim acc pl
+12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+13;э;Ё;NONLEX;;;э;;;;;;S;Ё;S - - nonflex nonflex
+14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+15;в;¬;PR;;;в;;;;;;PR;¬;PR
+16;одно...;ќƒ»Ќ...;A - acc sg plen n -;distort;;;;;о;н;д;A;ќƒ»Ќ...;A - acc sg plen n -
+17;в;¬;PR;;;в;;;;;;PR;¬;PR
+18;лице;Ћ»÷ќ;S n inan loc sg;;;е;ц;и;л;;;S;Ћ»÷ќ;S n inan loc sg
+19;одного;ќƒ»Ќ;A - gen sg plen m -;;;о;г;о;н;д;о;A;ќƒ»Ќ;A - gen sg plen m -
+20;человека;„≈Ћќ¬≈ ;S m anim gen sg;;;а;к;е;в;о;л;S;„≈Ћќ¬≈ ;S m anim gen sg
+21;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+22;всЄ;¬—≈;ADV -;;;Є;с;в;;;;ADV;¬—≈;ADV -
+23;в;¬;PR;;;в;;;;;;PR;¬;PR
+24;нем;ќЌ;SPRO sg 3p m loc;;;м;е;н;;;;SPRO;ќЌ;SPRO sg 3p m loc
+25;сочетаетс€;—ќ„≈“ј“№—я;V ipf praes sg indic - 3p;;;€;с;т;е;а;т;V;—ќ„≈“ј“№—я;V ipf praes sg indic - 3p
+26;так;“ј ;ADV -;;;к;а;т;;;;ADV;“ј ;ADV -
+27;органично;ќ–√јЌ»„Ќќ;ADV -;;;о;н;ч;и;н;а;ADV;ќ–√јЌ»„Ќќ;ADV -
+28;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+29;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+30;поэтому;ѕќЁ“ќћ”;ADV -;;;у;м;о;т;э;о;ADV;ѕќЁ“ќћ”;ADV -
+31;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+33;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+34;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+35;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+36;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+37;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+38;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+39;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+40;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+41;собственно;—ќЅ—“¬≈ЌЌќ;ADV -;;;о;н;н;е;в;т;ADV;—ќЅ—“¬≈ЌЌќ;ADV -
+42;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+43;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+44;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;собсно;—ќЅ—Ќќ;S n inan nonflex nonflex;distort;;о;н;с;б;о;с;S;—ќЅ—Ќќ;S n inan nonflex nonflex
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+2;он;ќЌ;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ќЌ;SPRO sg 3p m nom
+3;очень;ќ„≈Ќ№;ADV -;;;ь;н;е;ч;о;;ADV;ќ„≈Ќ№;ADV -
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;эээ;ЁЁЁ;NONLEX;;;э;э;э;;;;NONLEX;ЁЁЁ;NONLEX
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;легко;Ћ≈√ ќ;ADV -;;;о;к;г;е;л;;ADV;Ћ≈√ ќ;ADV -
+8;заходит;«ј’ќƒ»“№;V ipf praes sg indic - 3p;;;т;и;д;о;х;а;V;«ј’ќƒ»“№;V ipf praes sg indic - 3p
+9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+10;нравитс€;Ќ–ј¬»“№—я;V ipf praes sg indic - 3p;;;€;с;т;и;в;а;V;Ќ–ј¬»“№—я;V ipf praes sg indic - 3p
+11;всем;¬—≈;S - - dat pl;;;м;е;с;в;;;S;¬—≈;S - - dat pl
+12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+13;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+14;так;“ј ;ADV -;;;к;а;т;;;;ADV;“ј ;ADV -
+15;далее;ƒјЋ≈≈;ADV -;;;е;е;л;а;д;;ADV;ƒјЋ≈≈;ADV -
+16;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¬от;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;ну;Ќ”;PART;;;у;н;;;;;PART;Ќ”;PART
+4;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+5;соотвественно;—ќќ“¬≈—“¬≈ЌЌќ;ADV -;;;о;н;н;е;в;т;ADV;—ќќ“¬≈—“¬≈ЌЌќ;ADV -
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;хейтеров;’≈…“≈–;S f inan gen sg;;;в;о;р;е;т;й;S;’≈…“≈–;S f inan nom sg
+8;у;”;PR;;;у;;;;;;PR;”;PR
+9;него;ќЌ;SPRO sg 3p m acc;;;о;г;е;н;;;SPRO;ќЌ;SPRO sg 3p m acc
+10;много;ћЌќ√ќ;ADV -;;;о;г;о;н;м;;ADV;ћЌќ√ќ;ADV -
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+12;как; ј ;CONJ;;;к;а;к;;;;CONJ; ј ;CONJ
+13;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+14;у;”;PR;;;у;;;;;;PR;”;PR
+15;всех;¬—≈;S - - gen pl;;;х;е;с;в;;;S;¬—≈;S - - gen pl
+16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+17;в;¬;PR;;;в;;;;;;PR;¬;PR
+18;общем;ќЅў»…;A - loc sg plen m -;слитно;;м;е;щ;б;о;;A;ќЅў»…;A - loc sg plen m -
+19;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+20;то;“ќ;NONLEX;;;о;т;;;;;NONLEX;“ќ;NONLEX
+21;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+22;попул€рных;ѕќѕ”Ћя–Ќџ…;A - gen pl plen - -;;;х;ы;н;р;€;л;A;ѕќѕ”Ћя–Ќџ…;A - gen pl plen - -
+23;людей;„≈Ћќ¬≈ ;S m anim gen pl;;;й;е;д;ю;л;;S;„≈Ћќ¬≈ ;S m anim gen pl
+24;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m anim nom sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;¬от;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;второй;¬“ќ–ќ…;A - gen sg plen f -;;;й;о;р;о;т;в;A;¬“ќ–ќ…;A - gen sg plen f -
+6;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+7;это;Ё“ќ;S n - acc sg;;;о;т;э;;;;S;Ё“ќ;S n - acc sg
+8;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+9;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+10;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+11;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+12;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+13;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+15;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+16;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;Oxxxymiron;OXXXYMIRON;NONLEX;;;;;;;;;NONLEX;OXXXYMIRON;NONLEX
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;ќксимирон;ќ —»ћ»–ќЌ;S m persn nom sg;;;н;о;р;и;м;и;S;ќ —»ћ»–ќЌ;S m inan nom sg
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;Ќу;Ќ”;PART;;;у;н;;;;;PART;Ќ”;PART
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+6;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+7;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+8;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+9;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+10;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+11;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;Oxxxymiron;OXXXYMIRON;NONLEX;;;;;;;;;NONLEX;OXXXYMIRON;NONLEX
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;ќксимирон;ќ —»ћ»–ќЌ;S m persn nom sg;;;н;о;р;и;м;и;S;ќ —»ћ»–ќЌ;S m inan nom sg
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;уже;”∆≈;ADV -;;;е;ж;у;;;;ADV;”∆≈;ADV -
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;в;¬;PR;;;в;;;;;;PR;¬;PR
+4;принципе;ѕ–»Ќ÷»ѕ;S m inan loc sg;;;е;п;и;ц;н;и;S;ѕ–»Ќ÷»ѕ;S m inan loc sg
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+8;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+9;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+10;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+13;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+14;себ€;—≈Ѕя;SPRO - - - acc;;;€;б;е;с;;;SPRO;—≈Ѕя;SPRO - - - acc
+15;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+16;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+17;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;с€;—я;NONLEX;distort;;€;с;;;;;NONLEX;—я;NONLEX
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;сделал;—ƒ≈Ћј“№;V pf praet sg indic m -;;;л;а;л;е;д;с;V;—ƒ≈Ћј“№;V pf praet sg indic m -
+2;уже;”∆≈;ADV -;;;е;ж;у;;;;ADV;”∆≈;ADV -
+3;несколько;Ќ≈— ќЋ№ ќ;NUM - - -;;;о;к;ь;л;о;к;NUM;Ќ≈— ќЋ№ ќ;NUM - - -
+4;лет;√ќƒ;S m inan gen pl;;;т;е;л;;;;S;√ќƒ;S m inan gen pl
+5;назад;Ќј«јƒ;ADV -;;;д;а;з;а;н;;ADV;Ќј«јƒ;ADV -
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;ещЄ;≈ў≈;ADV -;;;Є;щ;е;;;;ADV;≈ў≈;ADV -
+8;когда; ќ√ƒј;CONJ;;;а;д;г;о;к;;CONJ; ќ√ƒј;CONJ
+9;хип-хоп;’»ѕ-’ќѕ;S m inan nom sg;;;п;о;х;;п;и;S;’»ѕ-’ќѕ;S m inan nom sg
+10;даже;ƒј∆≈;PART;;;е;ж;а;д;;;PART;ƒј∆≈;PART
+11;не;Ќ≈;PART;;;е;н;;;;;PART;Ќ≈;PART
+12;был;Ѕџ“№;V ipf praet sg indic m -;;;л;ы;б;;;;V;Ѕџ“№;V ipf praet sg indic m -
+13;попул€рен;ѕќѕ”Ћя–Ќџ…;A - - sg brev m -;;;н;е;р;€;л;у;A;ѕќѕ”Ћя–Ќџ…;A - - sg brev m -
+14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+15;у;”;PR;;;у;;;;;;PR;”;PR
+16;него;ќЌ;SPRO sg 3p m acc;;;о;г;е;н;;;SPRO;ќЌ;SPRO sg 3p m acc
+17;им€;»ћя;S n inan nom sg;;;€;м;и;;;;S;»ћя;S n inan acc sg
+18;уже;”∆≈;ADV -;;;е;ж;у;;;;ADV;”∆≈;ADV -
+19;известно;»«¬≈—“Ќџ…;A - - sg brev n -;;;о;н;т;с;е;в;A;»«¬≈—“Ќџ…;A - - sg brev n -
+20;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+21;поэтому;ѕќЁ“ќћ”;ADV -;;;у;м;о;т;э;о;ADV;ѕќЁ“ќћ”;ADV -
+22;про;ѕ–ќ;PR;;;о;р;п;;;;PR;ѕ–ќ;PR
+23;него;ќЌ;SPRO sg 3p m acc;;;о;г;е;н;;;SPRO;ќЌ;SPRO sg 3p m acc
+24;даже...;ƒј∆≈...;PART;;;;;;е;ж;а;PART;ƒј∆≈...;PART
+25;на;Ќј;PR;;;а;н;;;;;PR;Ќј;PR
+26;нЄм;ќЌ;SPRO sg 3p m loc;;;м;Є;н;;;;SPRO;ќЌ;SPRO sg 3p m loc
+27;останавливатьс€;ќ—“јЌј¬Ћ»¬ј“№—я;V ipf - - inf - -;;;€;с;ь;т;а;в;V;ќ—“јЌј¬Ћ»¬ј“№—я;V ipf - - inf - -
+28;не;Ќ≈;PART;;;е;н;;;;;PART;Ќ≈;PART
+29;будем;Ѕџ“№;V ipf - pl imper - 1p;;;м;е;д;у;б;;V;Ѕџ“№;V ipf - pl imper - 1p
+30;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m anim nom sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;»;»;S - - nonflex nonflex;;;и;;;;;;S;»;S - - nonflex nonflex
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+8;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+9;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+10;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+13;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+14;собственно;—ќЅ—“¬≈ЌЌќ;ADV -;;;о;н;н;е;в;т;ADV;—ќЅ—“¬≈ЌЌќ;ADV -
+15;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+16;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+17;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;собсно;—ќЅ—Ќќ;S n inan nonflex nonflex;distort;;о;н;с;б;о;с;S;—ќЅ—Ќќ;S n inan nonflex nonflex
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+2;третий;“–≈“»…;A - nom sg plen m -;;;й;и;т;е;р;т;A;“–≈“»…;A - nom sg plen m -
+3;персонаж;ѕ≈–—ќЌј∆;S m anim nom sg;;;ж;а;н;о;с;р;S;ѕ≈–—ќЌј∆;S m anim nom sg
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;мм;ћћ;NONLEX;;;м;м;;;;;S;ћћ;S m inan nonflex nonflex
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;точно;“ќ„Ќќ;CONJ;;;о;н;ч;о;т;;CONJ;“ќ„Ќќ;CONJ
+8;так же;так же;-;;;е;ж; ;к;а;т;-;так же;-
+9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+10;как; ј ;ADV -;;;к;а;к;;;;ADV; ј ;ADV -
+11;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+12;первый;ѕ≈–¬џ…;A - nom sg plen m -;;;й;ы;в;р;е;п;A;ѕ≈–¬џ…;A - nom sg plen m -
+13;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+14;это;Ё“ќ;S n - nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+15;—лава;—Ћј¬ј;S f inan nom sg;;;а;в;а;л;с;;S;—Ћј¬ј;S f inan nom sg
+16;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+17;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+18;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+19;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+20;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+21;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+22;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+23;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+24;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1; ѕ——; ѕ——;S f inan dat sg;;;с;с;п;к;;;S; ѕ——;S f inan nonflex nonflex
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1; эпээсэс; ЁѕЁЁ—Ё—;S f inan dat sg;;;с;э;с;э;э;п;S; ЁѕЁЁ—Ё—;S m inan acc sg
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+2;он;ќЌ;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ќЌ;SPRO sg 3p m nom
+3;же;∆≈;PART;;;е;ж;;;;;PART;∆≈;PART
+4;√нойный;√Ќќ…Ќџ…;S m sg nom persn;;;й;ы;н;й;о;н;A;√Ќќ…Ќџ…;A - acc sg plen m inan
+5;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+6;аа;јј;NONLEX;;;а;а;;;;;NONLEX;јј;NONLEX
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;этот;Ё“ќ“;A - nom sg plen m -;;;т;о;т;э;;;A;Ё“ќ“;A - nom sg plen m -
+9;человек;„≈Ћќ¬≈ ;S m anim nom sg;;;к;е;в;о;л;е;S;„≈Ћќ¬≈ ;S m anim nom sg
+10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+11;он;ќЌ;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ќЌ;SPRO sg 3p m nom
+12;стал;—“ј“№;V pf praet sg indic m -;;;л;а;т;с;;;V;—“ј“№;V pf praet sg indic m -
+13;попул€рным;ѕќѕ”Ћя–Ќџ…;A - ins sg plen m -;;;м;ы;н;р;€;л;A;ѕќѕ”Ћя–Ќџ…;A - ins sg plen m -
+14;практически;ѕ–ј “»„≈— »;ADV -;;;и;к;с;е;ч;и;ADV;ѕ–ј “»„≈— »;ADV -
+15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+16;эээ;ЁЁЁ;NONLEX;;;э;э;э;;;;NONLEX;ЁЁЁ;NONLEX
+17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+18;ну;Ќ”;PART;;;у;н;;;;;PART;Ќ”;PART
+19;таким;“ј ќ…;A - ins sg plen m -;;;м;и;к;а;т;;A;“ј ќ…;A - ins sg plen m -
+20;же;∆≈;PART;;;е;ж;;;;;PART;∆≈;PART
+21;способом;—ѕќ—ќЅ;S m inan ins sg;;;м;о;б;о;с;о;S;—ќ—ќЅ;S m inan ins sg
+22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+23;как; ј ;CONJ;;;к;а;к;;;;CONJ; ј ;CONJ
+24;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+25;небезысвестный;Ќ≈Ѕ≈«џ—¬≈—“Ќџ…;A - nom sg plen m -;;;й;ы;н;т;с;е;A;Ќ≈Ѕ≈«џ—¬≈—“Ќџ…;A - nom sg plen m -
+26;—ергей;—≈–√≈…;S m anim persn nom sg;;;й;е;г;р;е;с;S;—≈–√≈…;S m anim nom sg
+27;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+28;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+29;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;ѕаук;ѕј” ;S m anim nom sg;;;к;у;а;п;;;S;ѕј” ;S m anim nom sg
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;“роицкий;“–ќ»÷ »…;S m anim famn nom sg;;;й;и;к;ц;и;о;S;“–ќ»÷ »…;S m anim nom sg
+2;из;»«;PR;;;з;и;;;;;PR;»«;PR
+3;группы;√–”ѕѕј;S f inan gen sg;;;ы;п;п;у;р;г;S;√–”ѕѕј;S f inan gen sg
+4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+5;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+6;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1; оррози€; ќ––ќ«»я;S f inan nom sg;;;€;и;з;о;р;р;S; ќ––ќ«»я;S f inan nom sg
+2;ћеталла;ћ≈“јЋЋ;S f inan gen sg;;;а;л;л;а;т;е;S;ћ≈“јЋЋ;S f inan nom sg
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+2;то есть;то есть;-;;;ь;т;с;е; ;о;-;то есть;-
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;это;Ё“ќ;S n - nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+5;очень;ќ„≈Ќ№;ADV -;;;ь;н;е;ч;о;;ADV;ќ„≈Ќ№;ADV -
+6;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+7;очень;ќ„≈Ќ№;ADV -;;;ь;н;е;ч;о;;ADV;ќ„≈Ќ№;ADV -
+8;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+9;очень;ќ„≈Ќ№;ADV -;;;ь;н;е;ч;о;;ADV;ќ„≈Ќ№;ADV -
+10;толстый;“ќЋ—“џ…;A - acc sg plen m -;;;й;ы;т;с;л;о;A;“ќЋ—“џ…;A - nom sg plen m -
+11;тролль;“–ќЋЋ№;S m anim acc sg;;;ь;л;л;о;р;т;S;“–ќЋЋ№;S m anim nom sg
+12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+13;причЄм;ѕ–»„≈ћ;CONJ;;;м;Є;ч;и;р;п;CONJ;ѕ–»„≈ћ;CONJ
+14;троллит;“–ќЋЋ»“№;V 3p intr praet sg;;;т;и;л;л;о;р;S;“–ќЋЋ»“;S m inan acc sg
+15;он;ќЌ;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ќЌ;SPRO sg 3p m nom
+16;везде;¬≈«ƒ≈;ADV -;;;е;д;з;е;в;;ADV;¬≈«ƒ≈;ADV -
+17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+18;начина€;Ќј„»Ќј“№;V ipf praes - ger - -;;;€;а;н;и;ч;а;V;Ќј„»Ќј“№;V ipf praes - ger - -
+19;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+20;то есть;то есть;-;;;ь;т;с;е; ;о;-;то есть;-
+21;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+22;от;ќ“;PR;;;т;о;;;;;PR;ќ“;PR
+23;своего;—¬ќ…;A - gen sg plen m -;;;о;г;е;о;в;с;A;—¬ќ…;A - gen sg plen m -
+24;творчества;“¬ќ–„≈—“¬ќ;S n inan gen sg;;;а;в;т;с;е;ч;S;“¬ќ–„≈—“¬ќ;S n inan gen sg
+25;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+26;заканчива€;«ј јЌ„»¬ј“№;V ipf praes - ger - -;;;€;а;в;и;ч;н;V;«ј јЌ„»¬ј“№;V ipf praes - ger - -
+27;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+28;эа;Ёј;NONLEX;;;а;э;;;;;NONLEX;Ёј;NONLEX
+29;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+30;ответами;ќ“¬≈“;S m inan ins pl;;;и;м;а;т;е;в;S;ќ“¬≈“;S m inan ins pl
+31;в;¬;S - - nonflex nonflex;;;в;;;;;;S;¬;S - - nonflex nonflex
+32;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+33;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+34;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+35;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+36;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+37;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+38;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+39;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+40;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;—ћ»;—ћ»;S - inan loc pl;;;и;м;с;;;;S;—ћ»;S - inan nom pl
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;сми;—ћ»;S - inan loc pl;distort;;и;м;с;;;;S;—ћ»;S - inan loc pl
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m anim nom sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;„то;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+4;это;Ё“ќ;S n - nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+5;значит;«Ќј„»“№;V ipf praes sg indic - 3p;;;т;и;ч;а;н;з;V;«Ќј„»“№;V ipf praes sg indic - 3p
+6;дл€;ƒЋя;PR;;;€;л;д;;;;PR;ƒЋя;PR
+7;российской;–ќ——»…— »…;A - gen sg plen f -;;;й;о;к;с;й;и;A;–ќ——»…— »…;A - gen sg plen f -
+8;музыки;ћ”«џ ј;S f inan gen sg;;;и;к;ы;з;у;м;S;ћ”«џ ј;S f inan gen sg
+9;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;¬от;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+2;приход;ѕ–»’ќƒ;S m inan nom sg;;;д;о;х;и;р;п;S;ѕ–»’ќƒ;S m inan nom sg
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;так;“ј ;ADV -;;;к;а;т;;;;ADV;“ј ;ADV -
+5;сказать;— ј«ј“№;V pf - - inf - -;;;ь;т;а;з;а;к;V;— ј«ј“№;V pf - - inf - -
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;к; ;PR;;;к;;;;;;PR; ;PR
+8;пику;ѕ» ј;S f inan acc sg;;;у;к;и;п;;;S;ѕ» ј;S f inan acc sg
+9;попул€рности;ѕќѕ”Ћя–Ќќ—“№;S f inan gen sg;;;и;т;с;о;н;р;S;ѕќѕ”Ћя–Ќќ—“№;S f inan gen sg
+10;этих;Ё“ќ“;A - gen pl plen - -;;;х;и;т;э;;;A;Ё“ќ“;A - gen pl plen - -
+11;исполнителей;»—ѕќЋЌ»“≈Ћ№;S m anim gen pl;;;й;е;л;е;т;и;S;»—ѕќЋЌ»“≈Ћ№;S m anim gen pl
+12;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ƒа;ƒј;CONJ;;;а;д;;;;;CONJ;ƒј;CONJ
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;в;¬;PR;;;в;;;;;;PR;¬;PR
+4;принципе;ѕ–»Ќ÷»ѕ;S m inan loc sg;;;е;п;и;ц;н;и;S;ѕ–»Ќ÷»ѕ;S m inan loc sg
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;это;Ё“ќ;S n - nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+7;замечательно;«јћ≈„ј“≈Ћ№Ќџ…;A - - sg brev n -;;;о;н;ь;л;е;т;A;«јћ≈„ј“≈Ћ№Ќџ…;A - - sg brev n -
+8;!;!;SENT;;;;;;;;;SENT;!;SENT
+;;;;;;;;;;;;;;
+1;Ёто;Ё“ќ;S n - nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+2;значит;«Ќј„»“№;V ipf praes sg indic - 3p;;;т;и;ч;а;н;з;V;«Ќј„»“№;V ipf praes sg indic - 3p
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;что;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+5;будут;Ѕџ“№;V ipf praes pl indic - 3p;;;т;у;д;у;б;;V;Ѕџ“№;V ipf praes pl indic - 3p
+6;рождатьс€;–ќ∆ƒј“№—я;V ipf - - inf - -;;;€;с;ь;т;а;д;V;–ќ∆ƒј“№—я;V ipf - - inf - -
+7;новые;Ќќ¬џ…;A - acc pl plen - inan;;;е;ы;в;о;н;;A;Ќќ¬џ…;A - acc pl plen - inan
+8;интересные;»Ќ“≈–≈—Ќџ…;A - acc pl plen - inan;;;е;ы;н;с;е;р;A;»Ќ“≈–≈—Ќџ…;A - acc pl plen - inan
+9;коллаборации; ќЋЋјЅќ–ј÷»я;S f inan loc sg;;;и;и;ц;а;р;о;S; ќЋЋјЅќ–ј÷»я;S f inan loc sg
+10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+11;будут;Ѕџ“№;V ipf praes pl indic - 3p;;;т;у;д;у;б;;V;Ѕџ“№;V ipf praes pl indic - 3p
+12;по€вл€тьс€;ѕќя¬Ћя“№—я;V ipf - - inf - -;;;€;с;ь;т;€;л;V;ѕќя¬Ћя“№—я;V ipf - - inf - -
+13;новые;Ќќ¬џ…;A - acc pl plen - inan;;;е;ы;в;о;н;;A;Ќќ¬џ…;A - acc pl plen - inan
+14;интересные;»Ќ“≈–≈—Ќџ…;A - acc pl plen - inan;;;е;ы;н;с;е;р;A;»Ќ“≈–≈—Ќџ…;A - acc pl plen - inan
+15;альбомы;јЋ№Ѕќћ;S m inan acc pl;;;ы;м;о;б;ь;л;S;јЋ№Ѕќћ;S m inan acc pl
+16;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+18;что;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+19;самое;—јћџ…;A - nom sg plen n -;;;е;о;м;а;с;;A;—јћџ…;A - nom sg plen n -
+20;при€тное;ѕ–»я“Ќџ…;A - nom sg plen n -;;;е;о;н;т;€;и;A;ѕ–»я“Ќџ…;A - nom sg plen n -
+21;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+22;рок-музыка;–ќ -ћ”«џ ј;S f inan nom sg;;;а;к;ы;з;у;м;S;–ќ -ћ”«џ ј;S f inan nom sg
+23;будет;Ѕџ“№;V ipf praes sg indic - 3p;;;т;е;д;у;б;;V;Ѕџ“№;V ipf praes sg indic - 3p
+24;стремитьс€;—“–≈ћ»“№—я;V ipf - - inf - -;;;€;с;ь;т;и;м;V;—“–≈ћ»“№—я;V ipf - - inf - -
+25;делать;ƒ≈Ћј“№;V ipf - - inf - -;;;ь;т;а;л;е;д;V;ƒ≈Ћј“№;V ipf - - inf - -
+26;что-то;„“ќ-“ќ;S n - acc sg;;;о;т;;о;т;ч;S;„“ќ-“ќ;S n - acc sg
+27;оригинальное;ќ–»√»ЌјЋ№Ќџ…;A - nom sg plen n -;;;е;о;н;ь;л;а;A;ќ–»√»ЌјЋ№Ќџ…;A - nom sg plen n -
+28;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+29;а;ј;CONJ;;;а;;;;;;CONJ;ј;CONJ
+30;не;Ќ≈;PART;;;е;н;;;;;PART;Ќ≈;PART
+31;останавливатьс€;ќ—“јЌј¬Ћ»¬ј“№—я;V ipf - - inf - -;;;€;с;ь;т;а;в;V;ќ—“јЌј¬Ћ»¬ј“№—я;V ipf - - inf - -
+32;на;Ќј;PR;;;а;н;;;;;PR;Ќј;PR
+33;какой-то; ј ќ…-“ќ;A - loc sg plen f -;;;о;т;;й;о;к;A; ј ќ…-“ќ;A - loc sg plen f -
+34;альтернативе;јЋ№“≈–Ќј“»¬ј;S f inan loc sg;;;е;в;и;т;а;н;S;јЋ№“≈–Ќј“»¬ј;S f inan loc sg
+35;или;»Ћ»;CONJ;;;и;л;и;;;;CONJ;»Ћ»;CONJ
+36;на;Ќј;PR;;;а;н;;;;;PR;Ќј;PR
+37;русском;–”—— »…;A - loc sg plen m -;;;м;о;к;с;с;у;A;–”—— »…;A - loc sg plen m -
+38;роке;–ќ ;S m inan loc sg;;;е;к;о;р;;;S;–ќ ;S m inan loc sg
+39;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;Ёто;Ё“ќ;S n - nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+2;будет;Ѕџ“№;V ipf praes sg indic - 3p;;;т;е;д;у;б;;V;Ѕџ“№;V ipf praes sg indic - 3p
+3;прогресси€;ѕ–ќ√–≈——»я;S f inan nom sg;;;€;и;с;с;е;р;S;ѕ–ќ√–≈——»я;S f inan nom sg
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¬от;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;либо;Ћ»Ѕќ;CONJ;;;о;б;и;л;;;CONJ;Ћ»Ѕќ;CONJ
+4;она;ќЌј;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ќЌј;SPRO sg 3p f nom
+5;умрет;”ћ≈–≈“№;V pf fut sg indic - 3p;;;т;е;р;м;у;;V;”ћ≈–≈“№;V pf fut sg indic - 3p
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m anim nom sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;Ќет;Ќ≈“;PART;;;т;е;н;;;;PART;Ќ≈“;PART
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;есть;Ѕџ“№;V ipf praes sg indic - 3p;;;ь;т;с;е;;;V;Ѕџ“№;V ipf praes sg indic - 3p
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;конечно; ќЌ≈„Ќќ;ADV -;;;о;н;ч;е;н;о;ADV; ќЌ≈„Ќќ;ADV -
+8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+9;безусловно;Ѕ≈«”—Ћќ¬Ќќ;ADV -;;;о;н;в;о;л;с;ADV;Ѕ≈«”—Ћќ¬Ќќ;ADV -
+10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+11;какие-нибудь; ј ќ…-Ќ»Ѕ”ƒ№;A - nom pl plen - -;;;ь;д;у;б;и;н;A; ј ќ…-Ќ»Ѕ”ƒ№;A - nom pl plen - -
+12;группы;√–”ѕѕј;S f inan nom pl;;;ы;п;п;у;р;г;S;√–”ѕѕј;S f inan nom pl
+13;рус;–”—џ…;A - nom sg plen m -;;;с;у;р;;;;A;–”—џ…;A - nom sg plen m -
+14;...;...;SENT;;;;;;;;;SENT;...;SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+10;новой;Ќќ¬џ…;A - gen sg plen f -;;;й;о;в;о;н;;A;Ќќ¬џ…;A - gen sg plen f -
+11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+13;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;новый;Ќќ¬џ…;A - nom sg plen m -;;;й;ы;в;о;н;;A;Ќќ¬џ…;A - nom sg plen m -
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+10;русской;–”—— »…;A - gen sg plen f -;;;й;о;к;с;с;у;A;–”—— »…;A - gen sg plen f -
+11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+13;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;русскай;–”—— ј…;S m inan acc sg;;;й;а;к;с;с;у;S;–”—— ј…;S m inan acc sg
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;волны;¬ќЋЌј;S f inan nom pl;;;ы;н;л;о;в;;S;¬ќЋЌј;S f inan nom pl
+2;типа;“»ѕ;S m inan gen sg;;;а;п;и;т;;;S;“»ѕ;S m inan gen sg
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;Ѕуерака;Ѕ”≈–ј ;S m inan gen sg;;;а;к;а;р;е;у;S;Ѕ”≈–ј ;S m inan gen sg
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;или;»Ћ»;CONJ;;;и;л;и;;;;CONJ;»Ћ»;CONJ
+2;типа;“»ѕ;S m inan gen sg;;;а;п;и;т;;;S;“»ѕ;S m inan gen sg
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;ѕошлой;ѕќЎЋџ…;A - nom sg plen f -;;;й;о;л;ш;о;п;A;ѕќЎЋџ…;A - nom sg plen f -
+2;ћолли;ћќЋЋ№;S f inan nom sg;;;и;л;л;о;м;;S;ћќЋЋ№;S f inan nom sg
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+2;но;Ќќ;CONJ;;;о;н;;;;;CONJ;Ќќ;CONJ
+3;€;я;SPRO sg 1p - nom;;;€;;;;;;SPRO;я;SPRO sg 1p - nom
+4;думаю;ƒ”ћј“№;V ipf praes sg indic - 1p;;;ю;а;м;у;д;;V;ƒ”ћј“№;V ipf praes sg indic - 1p
+5;что;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+6;это;Ё“ќ;S n - nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+7;только;“ќЋ№ ќ;PART;;;о;к;ь;л;о;т;PART;“ќЋ№ ќ;PART
+8;вершина;¬≈–Ў»Ќј;S f inan nom sg;;;а;н;и;ш;р;е;S;¬≈–Ў»Ќј;S f inan nom sg
+9;айсберга;ј…—Ѕ≈–√;S m inan gen sg;;;а;г;р;е;б;с;S;ј…—Ѕ≈–√;S m inan gen sg
+10;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+12;собственно;—ќЅ—“¬≈ЌЌќ;ADV -;;;о;н;н;е;в;т;ADV;—ќЅ—“¬≈ЌЌќ;ADV -
+13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+14;эээ;ЁЁЁ;NONLEX;;;э;э;э;;;;NONLEX;ЁЁЁ;NONLEX
+15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+16;новые;Ќќ¬џ…;A - nom pl plen - -;;;е;ы;в;о;н;;A;Ќќ¬џ…;A - nom pl plen - -
+17;рок;–ќ ;S m inan nom sg;;;к;о;р;;;;S;–ќ ;S m inan nom sg
+18;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+19;открыти€;ќ“ –џ“»≈;S n inan gen sg;;;€;и;т;ы;р;к;S;ќ“ –џ“»≈;S n inan gen sg
+20;ждут;∆ƒј“№;V ipf praes pl indic - 3p;;;т;у;д;ж;;;V;∆ƒј“№;V ipf praes pl indic - 3p
+21;нас;ћџ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;ћџ;SPRO pl 1p - loc
+22;в;¬;PR;;;в;;;;;;PR;¬;PR
+23;будущем;Ѕ”ƒ”ў≈≈;S n inan loc sg;;;м;е;щ;у;д;у;S;Ѕ”ƒ”ў≈≈;S n inan loc sg
+24;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ћыслитель;ћџ—Ћ»“≈Ћ№;S m anim nom sg;;;ь;л;е;т;и;л;S;ћџ—Ћ»“≈Ћ№;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;¬от;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;Ќе;Ќ≈;PART;;;е;н;;;;;PART;Ќ≈;PART
+2;очень;ќ„≈Ќ№;ADV -;;;ь;н;е;ч;о;;ADV;ќ„≈Ќ№;ADV -
+3;у;”;PR;;;у;;;;;;PR;”;PR
+4;мен€;я;SPRO sg 1p - acc;;;€;н;е;м;;;SPRO;я;SPRO sg 1p - acc
+5;получилось;ѕќЋ”„»“№—я;V pf praet sg indic n -;;;ь;с;о;л;и;ч;V;ѕќЋ”„»“№—я;V pf praet sg indic n -
+6;в;¬;PR;;;в;;;;;;PR;¬;PR
+7;п€ть;ѕя“№;NUM acc - -;;;ь;т;€;п;;;NUM;ѕя“№;NUM acc - -
+8;минут;ћ»Ќ”“ј;S f inan gen pl;;;т;у;н;и;м;;S;ћ»Ќ”“ј;S f inan gen pl
+9;уложитьс€;”Ћќ∆»“№—я;V pf - - inf - -;;;€;с;ь;т;и;ж;V;”Ћќ∆»“№—я;V pf - - inf - -
+10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+11;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+12;мысль;ћџ—Ћ№;S f inan nom sg;;;ь;л;с;ы;м;;S;ћџ—Ћ№;S f inan nom sg
+13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+14;€;я;SPRO sg 1p - nom;;;€;;;;;;SPRO;я;SPRO sg 1p - nom
+15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+16;наверно;Ќј¬≈–Ќќ;ADV -;;;о;н;р;е;в;а;ADV;Ќј¬≈–Ќќ;ADV -
+17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+18;не то;не то;ZERO;;;о;т; ;е;н;;ZERO;не то;ZERO
+19;чтобы;„“ќЅџ;CONJ;;;ы;б;о;т;ч;;CONJ;„“ќЅџ;CONJ
+20;правильно;ѕ–ј¬»Ћ№Ќќ;ADV -;;;о;н;ь;л;и;в;ADV;ѕ–ј¬»Ћ№Ќќ;ADV -
+21;изложил;»«Ћќ∆»“№;V pf praet sg indic m -;;;л;и;ж;о;л;з;V;»«Ћќ∆»“№;V pf praet sg indic m -
+22;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+23;ну;Ќ”;PART;;;у;н;;;;;PART;Ќ”;PART
+24;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25;потому;ѕќ“ќћ”;ADV -;;;у;м;о;т;о;п;ADV;ѕќ“ќћ”;ADV -
+26;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27;что;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+28;немножко;Ќ≈ћЌќ∆ ќ;ADV -;;;о;к;ж;о;н;м;ADV;Ќ≈ћЌќ∆ ќ;ADV -
+29;стесн€лс€;—“≈—Ќя“№—я;V ipf praet sg indic m -;;;€;с;л;€;н;с;V;—“≈—Ќя“№—я;V ipf praet sg indic m -
+30;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31;без;Ѕ≈«;PR;;;з;е;б;;;;PR;Ѕ≈«;PR
+32;подготовки;ѕќƒ√ќ“ќ¬ ј;S f inan gen sg;;;и;к;в;о;т;о;S;ѕќƒ√ќ“ќ¬ ј;S f inan gen sg
+33;сложно;—Ћќ∆Ќќ;ADV -;;;о;н;ж;о;л;с;ADV;—Ћќ∆Ќќ;ADV -
+34;что-то;„“ќ-“ќ;S n - acc sg;;;о;т;;о;т;ч;S;„“ќ-“ќ;S n - acc sg
+35;делать;ƒ≈Ћј“№;V ipf - - inf - -;;;ь;т;а;л;е;д;V;ƒ≈Ћј“№;V ipf - - inf - -
+36;.;.;SENT;;;;;;;;;SENT;.;SENT
